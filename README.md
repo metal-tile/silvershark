@@ -1,0 +1,2 @@
+# silvershark
+FirestoreをトリガーにしたFirebase Function
