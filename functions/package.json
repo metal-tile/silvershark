@@ -2,6 +2,7 @@
   "name": "silvershark",
   "description": "Presence for Firestore",
   "dependencies": {
+    "@google-cloud/pubsub": "^0.16.2",
     "firebase-admin": "^5.0.0",
     "firebase-functions": "^0.7.0"
   },
